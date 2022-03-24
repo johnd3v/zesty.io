@@ -1,0 +1,21 @@
+@import "~bootstrap/scss/bootstrap";
+@import "./global.scss";
+
+
+
+.hero{
+    background-position: center; 
+    height: 500px; 
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.about-details{
+    margin-top: -370px;
+    display: flex;
+    padding: 15px;
+    flex-direction: column;
+    color: black;
+    text-align: justify;
+    font-family: Tahoma, sans-serif;
+}
